@@ -1,0 +1,18 @@
+# Core dependencies (required)
+pdfplumber>=0.7.0
+PyMuPDF>=1.23.0
+pandas>=1.5.0
+tqdm>=4.64.0
+
+# Optional dependencies for advanced features
+# Uncomment the following lines if you need these features:
+
+# Advanced table extraction
+# camelot-py[cv]>=0.10.1
+
+# OCR functionality
+# pytesseract>=0.3.10
+# Pillow>=9.0.0
+
+# Additional useful packages
+# opencv-python>=4.7.0  # Required for camelot
