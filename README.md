@@ -1,4 +1,4 @@
-# PDF to JSON Extracto
+# PDF to JSON Extractor
 
 A comprehensive Python tool for extracting structured content from PDF files and exporting to JSON format while preserving page hierarchy, sections, subsections, and content types.
 
